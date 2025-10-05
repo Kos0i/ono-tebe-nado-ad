@@ -169,15 +169,15 @@
     background-position: center;
 }
 
-.lots-list-element:nth-child(1) {
+.lots-list-element-film {
     background-image: url(../images/card-lot-01.jpg);
 }
 
-.lots-list-element:nth-child(2) {
+.lots-list-element-book {
     background-image: url(../images/card-lot-02.jpg);
 }
 
-.lots-list-element:nth-child(3) {
+.lots-list-element-picture {
     background-image: url(../images/card-lot-03.jpg);
 }
 
