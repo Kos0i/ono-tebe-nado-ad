@@ -168,6 +168,7 @@
 
 .lots-list-element:nth-child(1) {
     background-image: url(../images/card-lot-01.jpg);
+}
 
 .lots-list-element:nth-child(2) {
     background-image: url(../images/card-lot-02.jpg);
@@ -175,7 +176,6 @@
 
 .lots-list-element:nth-child(3) {
     background-image: url(../images/card-lot-03.jpg);
-    
 }
 
 .lot-link {
